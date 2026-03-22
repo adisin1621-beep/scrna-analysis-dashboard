@@ -1,0 +1,9 @@
+streamlit
+scanpy
+matplotlib
+plotly
+gseapy
+pandas
+numpy
+anndata
+scipy
